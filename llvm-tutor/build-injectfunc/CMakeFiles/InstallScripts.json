@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/dianavalenzuela/llvm-tutor/build-injectfunc/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-injectfunc/lib/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-injectfunc/tools/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-injectfunc/test/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-injectfunc/HelloWorld/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

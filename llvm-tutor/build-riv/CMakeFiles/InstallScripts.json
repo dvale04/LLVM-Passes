@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/dianavalenzuela/llvm-tutor/build-riv/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-riv/lib/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-riv/tools/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-riv/test/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-riv/HelloWorld/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

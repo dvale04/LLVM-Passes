@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/dianavalenzuela/llvm-tutor/build-opcodecounter/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-opcodecounter/lib/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-opcodecounter/tools/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-opcodecounter/test/cmake_install.cmake",
+		"/Users/dianavalenzuela/llvm-tutor/build-opcodecounter/HelloWorld/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

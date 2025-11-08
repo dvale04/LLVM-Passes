@@ -1,0 +1,8 @@
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/intrinsics_gen.dir
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/vt_gen.dir
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/omp_gen.dir
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/acc_gen.dir
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/target_parser_gen.dir
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/HelloWorld.dir
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/edit_cache.dir
+/Users/dianavalenzuela/llvm-tutor/build-hello/CMakeFiles/rebuild_cache.dir

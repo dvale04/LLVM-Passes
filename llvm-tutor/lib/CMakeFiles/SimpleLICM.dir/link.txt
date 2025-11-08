@@ -1,0 +1,1 @@
+/usr/bin/clang++  -Wall  -fdiagnostics-color=always -fvisibility-inlines-hidden -dynamiclib -Wl,-headerpad_max_install_names -o libSimpleLICM.dylib -install_name @rpath/libSimpleLICM.dylib CMakeFiles/SimpleLICM.dir/SimpleLICM.cpp.o   -L/usr/local/Cellar/llvm/21.1.4/lib  -Wl,-rpath,/usr/local/Cellar/llvm/21.1.4/lib -undefined dynamic_lookup

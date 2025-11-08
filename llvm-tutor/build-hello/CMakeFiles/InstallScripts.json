@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/dianavalenzuela/llvm-tutor/build-hello/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

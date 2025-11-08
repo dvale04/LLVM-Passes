@@ -1,0 +1,1 @@
+/usr/bin/clang++  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libHelloWorld.dylib -install_name @rpath/libHelloWorld.dylib CMakeFiles/HelloWorld.dir/HelloWorld.cpp.o  -undefined dynamic_lookup
