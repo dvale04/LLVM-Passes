@@ -1,1 +1,0 @@
-/usr/bin/clang++  -Wall  -fdiagnostics-color=always -fvisibility-inlines-hidden -g -dynamiclib -Wl,-headerpad_max_install_names -o libStaticCallCounter.dylib -install_name @rpath/libStaticCallCounter.dylib CMakeFiles/StaticCallCounter.dir/StaticCallCounter.cpp.o   -L/usr/local/Cellar/llvm/21.1.4/lib  -Wl,-rpath,/usr/local/Cellar/llvm/21.1.4/lib -undefined dynamic_lookup
